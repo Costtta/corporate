@@ -1,0 +1,14 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Mulish", sans-serif;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+h2{
+  font-weight: 400;
+}

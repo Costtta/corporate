@@ -1,0 +1,55 @@
+/* General start */
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+/* General end */
+
+/* about us start */
+
+/* about us end */
+
+/* service start */
+
+/* service end */
+
+/* works start */
+
+/* works end */
+
+.work .container .work-container .box{
+    transition: 1s !important;
+}
+
+.work .container .work-container .box .text{
+    transition: 1s !important;
+}
+
+/* teams start */
+
+/* teams end */
+
+/* testimonials start */
+
+/* testimonials end */
+
+/* pricing start */
+
+/* pricing end */
+
+/* blog start */
+
+/* blog end */
+
+/* contact us start */
+
+/* contact us end */
+
+/* footer start */
+
+/* footer end */
